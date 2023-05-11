@@ -1,4 +1,4 @@
-# gezesimgeldi
+# gezesimgeldi.com
 
 ✨ **What is it**?
 
