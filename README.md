@@ -2,7 +2,7 @@
 
 ✨ **What is it**?
 
-*Gezisimgeldi is a website that allows you to buy tour packages.*
+*Gezesimgeldi is a website that allows you to buy tour packages.*
 
 🔧 **Which tools were used?**
 
