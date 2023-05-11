@@ -1,10 +1,10 @@
 # gezesimgeldi
 
-✨ # What is it?
+✨ **What is it**?
 
-Gezisimgeldi is a website that allows you to buy tour packages.
+*Gezisimgeldi is a website that allows you to buy tour packages.*
 
-🔧 # Which tools were used?
+🔧 **Which tools were used?**
 
-C#, .NET, MVC, MSSQL
+*C#, .NET, MVC, MSSQL*
 
