@@ -1,10 +1,14 @@
 # gezesimgeldi.com
 
-✨ **What is it**?
+✨ **Nedir ?**
 
-*Gezesimgeldi is a website that allows you to buy tour packages.*
+*Gezesimgeldi.com, tur paketi almanızı sağlayan bir websitesidir.*
 
-🔧 **Which tools were used?**
+🔧 **Hangi araçlar kullanıldı?**
 
 *C#, .NET, MVC, MSSQL*
+
+👩🏽‍🎓 **Gazi Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü - BM102 Dersinin Projesidir.**
+
+
 
