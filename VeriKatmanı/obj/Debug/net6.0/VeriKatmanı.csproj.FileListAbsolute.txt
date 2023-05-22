@@ -1,0 +1,5 @@
+C:\Users\eezgi\OneDrive\Masaüstü\GAZİ\1.sınıf\2.dönem\Bilgisayar Programlama\gezesimgeldi\gezesimgeldi\VeriKatmanı\obj\Debug\net6.0\VeriKatmanı.csproj.AssemblyReference.cache
+C:\Users\eezgi\OneDrive\Masaüstü\GAZİ\1.sınıf\2.dönem\Bilgisayar Programlama\gezesimgeldi\gezesimgeldi\VeriKatmanı\obj\Debug\net6.0\VeriKatmanı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eezgi\OneDrive\Masaüstü\GAZİ\1.sınıf\2.dönem\Bilgisayar Programlama\gezesimgeldi\gezesimgeldi\VeriKatmanı\obj\Debug\net6.0\VeriKatmanı.AssemblyInfoInputs.cache
+C:\Users\eezgi\OneDrive\Masaüstü\GAZİ\1.sınıf\2.dönem\Bilgisayar Programlama\gezesimgeldi\gezesimgeldi\VeriKatmanı\obj\Debug\net6.0\VeriKatmanı.AssemblyInfo.cs
+C:\Users\eezgi\OneDrive\Masaüstü\GAZİ\1.sınıf\2.dönem\Bilgisayar Programlama\gezesimgeldi\gezesimgeldi\VeriKatmanı\obj\Debug\net6.0\VeriKatmanı.csproj.CoreCompileInputs.cache
